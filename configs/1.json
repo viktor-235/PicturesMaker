@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "xResolution": 1920,
+    "yResolution": 1080
+  },
+  "circles": [
+    {
+      "segmCount": 1,
+      "segmRepeats": 3,
+      "colors": [
+        "md_colors.pink_400",
+        "md_colors.pink_500",
+        "md_colors.pink_600"
+      ],
+      "rad1": 300,
+      "rad2": 50,
+      "xCentre": 0.5,
+      "yCentre": 0.5
+    },
+    {
+      "segmCount": 1,
+      "segmRepeats": 3,
+      "colors": [
+        "md_colors.red_400",
+        "md_colors.red_500",
+        "md_colors.red_600"
+      ],
+      "rad1": 50,
+      "rad2": 300,
+      "xCentre": 0.5,
+      "yCentre": 0.5
+    }
+  ]
+}

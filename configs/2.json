@@ -1,0 +1,125 @@
+{
+  "settings": {
+    "xResolution": 1920,
+    "yResolution": 1080
+  },
+  "circles": [
+    {
+      "segmCount": 1,
+      "segmRepeats": 27,
+      "colors": [
+        "md_colors.teal_100",
+        "md_colors.teal_200",
+        "md_colors.teal_300"
+      ],
+      "rad1": 10000,
+      "rad2": 10000,
+      "xCentre": 0.66,
+      "yCentre": 0.66
+    },
+    {
+      "segmCount": 1,
+      "segmRepeats": 27,
+      "colors": [
+        "md_colors.teal_200",
+        "md_colors.teal_300",
+        "md_colors.teal_100"
+      ],
+      "rad1": 410,
+      "rad2": 400,
+      "xCentre": 0.66,
+      "yCentre": 0.66
+    },
+    {
+      "segmCount": 1,
+      "segmRepeats": 27,
+      "colors": [
+        "md_colors.teal_100",
+        "md_colors.teal_200",
+        "md_colors.teal_300"
+      ],
+      "rad1": 390,
+      "rad2": 400,
+      "xCentre": 0.66,
+      "yCentre": 0.66
+    },
+    {
+      "segmCount": 1,
+      "segmRepeats": 3,
+      "colors": [
+        "md_colors.blue_200",
+        "md_colors.blue_300",
+        "md_colors.blue_400"
+      ],
+      "rad1": 300,
+      "rad2": 300,
+      "xCentre": 0.66,
+      "yCentre": 0.66
+    },
+    {
+      "segmCount": 1,
+      "segmRepeats": 3,
+      "colors": [
+        "md_colors.indigo_200",
+        "md_colors.indigo_300",
+        "md_colors.indigo_400"
+      ],
+      "rad1": 250,
+      "rad2": 300,
+      "xCentre": 0.66,
+      "yCentre": 0.66
+    },
+    {
+      "segmCount": 1,
+      "segmRepeats": 3,
+      "colors": [
+        "md_colors.deep_purple_200",
+        "md_colors.deep_purple_300",
+        "md_colors.deep_purple_400"
+      ],
+      "rad1": 200,
+      "rad2": 300,
+      "xCentre": 0.66,
+      "yCentre": 0.66
+    },
+    {
+      "segmCount": 1,
+      "segmRepeats": 3,
+      "colors": [
+        "md_colors.purple_200",
+        "md_colors.purple_300",
+        "md_colors.purple_400"
+      ],
+      "rad1": 150,
+      "rad2": 300,
+      "xCentre": 0.66,
+      "yCentre": 0.66
+    },
+    {
+      "segmCount": 1,
+      "segmRepeats": 3,
+      "colors": [
+        "md_colors.pink_200",
+        "md_colors.pink_300",
+        "md_colors.pink_400"
+      ],
+      "rad1": 100,
+      "rad2": 300,
+      "xCentre": 0.66,
+      "yCentre": 0.66
+    },
+    {
+      "segmCount": 1,
+      "segmRepeats": 3,
+      "colors": [
+        "md_colors.red_200",
+        "md_colors.red_300",
+        "md_colors.red_400"
+      ],
+      "rad1": 50,
+      "rad2": 300,
+      "xCentre": 0.66,
+      "yCentre": 0.66
+    }
+  ]
+}
